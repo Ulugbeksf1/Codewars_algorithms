@@ -1,0 +1,81 @@
+Introduction to Algorithms
+6.006 
+Goal: Solve computational promlems
+Check Correctness
+Argue efficiency
+Communicating those solutions with others. Check the efficiency 
+what is a problem, what is an algorithm
+
+Problem is a relationship between  set of inputs  and outputs
+=>
+How we define the problem
+Algorith is an function takes input and returns output
+for birthday algorithm : maintain record interview and check if birthday in record
+if it is return pair 
+  else add new students to record3
+  
+  
+  INDUCTION:
+  BASE CASE NEED FOR INDUCTIVE STATE
+  
+  
+  Efficiency - is not only how fast this algorithm run but, how fast does it compare to other possible ways of approaching this problem.
+  How to calculate efficiency : telling a computer what to do, and timing how long it takes.
+  Don't measure time instead count ops.
+  we want to know the performance of algorithm, not implementation.
+  We going to use to measure time or efficiency is something called asymptotic analysis.
+  Expect the performance according to size of input data 
+  
+  Memories.
+  Linear time algorithm - my algorithm performance is linear with respect of my input.
+  Types of notation
+   constant
+   linear log 
+   nlogn
+   poly
+   2 n
+   Model of Computation
+   RAM -random access memory.
+   
+   
+   
+   
+   // Data structures
+   To solve an algorithm clas. We have 2 different strategies. We can either reduced to using the solution to a problem we know how to solve or we can design our own algorithm, 
+   which is going to be recursive in nature.We are going to put stuff in the data structureand solve the sorting problem or search in a graph. And then, to design recursive
+   algorithm.We have various design paradigms
+   
+   
+   1 Reduce to a problem you already know (use data structures or algorithm)
+   Search Problem (data structures)
+   Static Array
+   Linked list
+   Dynamic array
+   Sorted array
+   Direct-access array
+   hash table
+   Balanced binary tree
+   Binary heap
+   
+   
+   2. Sort algorithm
+   Insertion sort
+   Selection sort
+   Merge sort
+   Counting sort
+   Radix sort
+   AVL sort
+   Heap sort
+   
+   
+   3 Shortest path algorithm
+   Breadth First Search
+   DAG Relaxation
+    Depth First Search
+    Topological sort
+    Belm
+   
+   
+   
+   
+   
