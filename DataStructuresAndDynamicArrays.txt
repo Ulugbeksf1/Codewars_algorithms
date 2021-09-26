@@ -1,0 +1,26 @@
+Interface (AOI/ADT) vs Data structures
+-specification
+-what data you can store
+-represantation 
+- how to store
+what the operations do
+what operations are supported
+what they mean
+algorithms to support
+2 main interfaces: 
+problem statement
+-solutions
+2 main interfaces
+-set
+-sequence
+2 main DS approaches
+-arrays
+-pointer based
+
+
+1) static sequence interface: maintain a sequence of items x0, x1 .... xn-1 subject to these operations:
+
+-get 
+-set
+
+Static array = Key: 
